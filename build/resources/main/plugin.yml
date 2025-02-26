@@ -1,0 +1,4 @@
+name: LitedungeonPlus
+version: '1'
+main: kenjoohono.litedungeonPlus.LitedungeonPlus
+api-version: '1.21'
